@@ -1,0 +1,53 @@
+body {
+    background-image: url("/assets/sheep-flock.jpg");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center; 
+}
+
+.container {
+    background: #ffffff99;
+    max-width: 40%;
+    margin: auto;
+    border-radius: 10px;
+    padding: 25px 0;
+    
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 14px 0;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border: none;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #1dba76;
+}
+
+#decrement-btn {
+    background: #c85555;
+}
+
+#save-btn {
+    background: #4584e2;
+}
+
+#save-el {
+    font-weight: bold;
+}
+
